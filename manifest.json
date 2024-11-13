@@ -11,8 +11,10 @@
             "matches": [
                 "https://agf-wt.asa.studio/*",
                 "https://agf-test-wt.asa.studio/*",
-		"https://agf-test-tt.asa.studio/*",
-		"https://agf-tt.asa.studio/*"
+        		"https://agf-test-tt.asa.studio/*",
+	        	"https://agf-tt.asa.studio/*",
+                "https://agf-upgrade-wt.asa.studio/*",
+        		"https://agf-upgrade-tt.asa.studio/*"
             ]
         }
     ]
