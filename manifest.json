@@ -15,9 +15,9 @@
 	        "https://agf-tt.asa.studio/*",
                 "https://agf-upgrade-wt.asa.studio/*",
         	"https://agf-upgrade-tt.asa.studio/*",
-		"https://agf-backup.asa.studio/",
-		"https://agf-backup-tt.asa.studio/",
-		"https://agf-backup-wt.asa.studio/"
+		"https://agf-backup.asa.studio/*",
+		"https://agf-backup-tt.asa.studio/*",
+		"https://agf-backup-wt.asa.studio/*"
             ]
         }
     ]
